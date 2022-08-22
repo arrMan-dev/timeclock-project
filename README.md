@@ -5,7 +5,7 @@ SpringBoot-security-thymeleaf-H2
 # frontend: Thymeleaf
 # Database: H2 in memory
 # configuration
-1. application-properties, you can change to any SQl technology
+1. application-properties, you can change to any SQl technologies
 2. run mvn build
 3. test the endpoints
 $. localhost:8000/
