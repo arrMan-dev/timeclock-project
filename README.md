@@ -8,3 +8,4 @@ SpringBoot-security-thymeleaf-H2
 1. application-properties, you can change to any SQl technology
 2. run mvn build
 3. test the endpoints
+$. localhost:8000/
